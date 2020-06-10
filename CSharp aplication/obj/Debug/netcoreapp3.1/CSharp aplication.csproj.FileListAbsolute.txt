@@ -1,0 +1,29 @@
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.csprojAssemblyReference.cache
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.AssemblyInfoInputs.cache
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.AssemblyInfo.cs
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.exe
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.deps.json
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.runtimeconfig.json
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.runtimeconfig.dev.json
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\CSharp aplication.pdb
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.pdb
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\const\source\repos\CSharp aplication\CSharp aplication\obj\Debug\netcoreapp3.1\CSharp aplication.csproj.CopyComplete
